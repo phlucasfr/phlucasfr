@@ -6,15 +6,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 Hi, i'm Phelipe Lucas!</h1>
 
-<p>I am looking for a job as a Backend Developer.</p>
+<p>I'm looking for a job as a Backend Developer.</p>
 Eu estou procurando um trabalho como Desenvolvedor Back-end.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=phlucasfr&repo=phlucasfr&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;  
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&color=orange)&nbsp;![Django](https://img.shields.io/badge/-Django-05122A?style=flat&color=orange)&nbsp;  
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&color=gray)&nbsp;![Putty](https://img.shields.io/badge/-Putty-05122A?style=flat&color=gray)&nbsp;![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=gray)&nbsp;![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=gray)&nbsp;  
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&color=green)&nbsp;![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=green)&nbsp;  
+
+![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=gray)&nbsp;![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=gray)&nbsp;  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=blue)&nbsp;  
 
