@@ -9,8 +9,6 @@ Hi, i'm Phelipe Lucas!</h1>
 <p>I'm looking for a job as a Backend Developer.</p>
 Eu estou procurando um trabalho como Desenvolvedor Back-end.
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=phlucasfr&repo=phlucasfr&countColorcountColor)
-
 ### Languages & Tools 🛠  
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&color=green)&nbsp;![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=green)&nbsp;  
 
