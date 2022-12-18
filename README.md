@@ -6,8 +6,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
 Hi, i'm Phelipe Lucas!</h1>
 
-<p>I'm looking for a job as a Backend Developer.</p>
-Eu estou procurando um trabalho como Desenvolvedor Back-end.
+<p>I started in the development career in 2021, i recognize myself as a lover of new technologies looking for learning day after day.
+ 
+I have experience in development using C# and Foxpro, but I have some knowledge in Javascript and Typescript, as well as other technologies that I use, such as MySQL, 
 
 ### Languages & Tools 🛠  
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&color=green)&nbsp;![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=green)&nbsp;  
