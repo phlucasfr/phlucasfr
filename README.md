@@ -9,7 +9,7 @@ Hi, i'm Phelipe Lucas!</h1>
 <p>I began my journey in the development career in 2021 and consider myself a lover of technologies, always seeking to learn and evolve.</p>
  
 ### Languages & Tools 🛠  
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&color=green)&nbsp;![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=green)&nbsp;![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp; 
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&color=green)&nbsp;![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=green)&nbsp;![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp;![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=green)&nbsp;
 
 ![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=gray)&nbsp;![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=gray)&nbsp;  
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
