@@ -10,9 +10,9 @@ I began my development journey in 2021 and am a passionate tech enthusiast. I'm 
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green) 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=green) 
 
-![Html](https://img.shields.io/badge/-Html-05122A?style=flat&color=gray) 
-![Css](https://img.shields.io/badge/-Css-05122A?style=flat&color=gray)   
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)   
+![Postgres](https://img.shields.io/badge/-Postgres-05122A?style=flat&color=yellow)  
+
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=blue)
 
 ## ⚙️ GitHub Analytics 
