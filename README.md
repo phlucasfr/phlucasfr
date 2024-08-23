@@ -7,7 +7,6 @@ I began my development journey in 2021 and am a passionate tech enthusiast. I'm 
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green) 
 ![C#](https://img.shields.io/badge/-Csharp-05122A?style=flat&color=green) 
 ![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=green) 
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green) 
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=green) 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)   
