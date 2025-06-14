@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Phelipe Lucas
 
-I'm a passionate software developer with experience since 2022, specializing in **Golang**, and **C#**. My expertise extends to **JavaScript**, **TypeScript**, **React**, and **Visual FoxPro**, enabling me to craft robust and scalable applications. With a strong background in system development and maintenance, API integration, and technical support, I bring a comprehensive skill set that also includes proficiency in relational and non-relational databases, along with solid DevOps practices.
+I'm a passionate software developer with experience since 2022.
 
 ## 🛠️ Technologies & Tools
 
