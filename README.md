@@ -5,9 +5,7 @@ I'm a passionate software developer with experience since 2022.
 ## 🛠️ Technologies & Tools
 
 * **Languages:**  
-  ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=00ADD8) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&color=239120) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&color=DEA584) ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=F7DF1E) ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=3178C6) ![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=3F4A8A)
-  ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&color=363636)
-
+  ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=00ADD8) ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&color=239120) ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&color=DEA584) ![JavaScript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=F7DF1E) ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=3178C6) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=3776AB) ![Visual FoxPro](https://img.shields.io/badge/-FoxPro-05122A?style=flat&color=3F4A8A) ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&color=363636)
 
 * **Databases:**  
   ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=4479A1) ![PostgreSQL](https://img.shields.io/badge/-Postgres-05122A?style=flat&color=4169E1) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&color=CC2927) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&color=47A248) ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&color=F80000) ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&color=DC382D)
