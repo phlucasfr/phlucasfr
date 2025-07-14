@@ -1,3 +1,5 @@
+![Visitors](https://komarev.com/ghpvc/?username=phlucasfr&color=blue)
+
 # Hello, World! 👋 I'm Phelipe Lucas
 
 I'm a passionate software developer with experience since 2022.
