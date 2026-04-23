@@ -2,6 +2,9 @@
 
 I'm a passionate software developer with experience since 2022.
 
+🚀 **Check out my portfolio:**  
+👉 https://gobizz.click/
+
 ## 🛠️ Technologies & Tools
 
 * **Languages:**  
@@ -25,6 +28,8 @@ I'm a passionate software developer with experience since 2022.
   ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&color=326CE5)
   ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=FF9900)
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=F05032)
+
+---
 
 ## 🌍 Connect with Me
 
