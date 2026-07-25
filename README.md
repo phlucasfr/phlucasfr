@@ -2,9 +2,6 @@
 
 I'm a passionate software Engineer with experience since 2022.
 
-🚀 **Check out my portfolio:**  
-👉 https://gobizz.click/
-
 ## 🛠️ Technologies & Tools
 
 * **Languages:**  
