@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm Phelipe Lucas
 
-I'm a passionate software developer with experience since 2022.
+I'm a passionate software Engineer with experience since 2022.
 
 🚀 **Check out my portfolio:**  
 👉 https://gobizz.click/
