@@ -9,8 +9,7 @@ I'm a passionate software Engineer with experience since 2022.
 
 * **Languages:**  
   ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&color=00ADD8)
-  ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=ED8B00)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=7F52FF)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&color=F7DF1E)
   ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&color=239120)
   ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&color=DEA584)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=3776AB)
